@@ -1,2 +1,3 @@
-# wow-addon-shadowpad
-ShadowPad World of Warcraft AddOn 
+# ShadowPad
+
+World of Warcraft AddOn 
