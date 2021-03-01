@@ -1,0 +1,93 @@
+<Bindings>
+
+	<Binding name="CLICK SHADOWPAD_BUTTON_F1:LeftButton" header="SHADOWPAD">
+	--	The binding system must be initialized throught this file;
+	--  argument must be OnDown, so our abilities will be executed immidiatly, not after releasing the button. How?
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_F2">
+		holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_F3">
+		holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_F4">
+		holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_F5">
+		holyFuckinShit();
+	</Binding>
+
+	<Binding name="SHADOWPAD_BUTTON_1">
+		holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_2">
+		holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_3">
+		holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_4">
+		holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_5">
+		holyFuckinShit();
+	</Binding>
+
+	<Binding name="SHADOWPAD_BUTTON_Q">
+		holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_W">
+	--	holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_E">
+		holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_R">
+		holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_T">
+		holyFuckinShit();
+	</Binding>
+
+	<Binding name="SHADOWPAD_BUTTON_A">
+	--	holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_S">
+	--	holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_D">
+	--	holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_F">
+		holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_G">
+		holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_H">
+		holyFuckinShit();
+	</Binding>
+
+	<Binding name="SHADOWPAD_BUTTON_Z">
+		holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_X">
+		holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_C">
+		holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_V">
+		holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_B">
+		holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_N">
+		holyFuckinShit();
+	</Binding>
+	<Binding name="SHADOWPAD_BUTTON_M">
+		holyFuckinShit();
+	</Binding>
+
+</Bindings>

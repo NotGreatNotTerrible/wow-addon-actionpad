@@ -1,0 +1,8 @@
+﻿## Interface: 30002
+## Title: ShadowPad
+## Notes: A 24-button, (2+1)-stance rogue Pad with Shadow Dance support.
+## Version: 0.6a
+
+localization.lua
+template.xml
+engine.lua
