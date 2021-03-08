@@ -1,3 +1,3 @@
-# ShadowPad
+# ActionPad
 
-World of Warcraft AddOn 
+World of Warcraft AddOn
