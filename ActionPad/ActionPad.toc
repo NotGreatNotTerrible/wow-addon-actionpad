@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: ActionPad
+## Notes: Visual action button organizer that matches physical layout of your keyboard.
+## Version: 0.9
+## X-Category: Combat
+
+ActionPad.xml

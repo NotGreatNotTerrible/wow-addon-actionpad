@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Ui
+    xsi:schemaLocation="http://www.blizzard.com/wow/ui/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://www.blizzard.com/wow/ui/"
+>
+    <Script file="ActionPad.lua" />
+    <Frame
+        name="ActionPad_MainFrame"
+        inherits="SecureStateHeaderTemplate"
+        parent="UIParent"
+        clampedToScreen="true"
+        frameStrata="LOW"
+        movable="true"
+    >
+        <Anchors>
+            <Anchor point="CENTER">
+                <Offset><AbsDimension x="0" y="0" /></Offset>
+            </Anchor>
+        </Anchors>
+        <Layers>
+            <Layer level="BACKGROUND">
+                <Texture name="ActionPad_MainFrameBackground" hidden="true">
+                    <Color r="0" g="0" b="0" a=".35" />
+                </Texture>
+            </Layer>
+        </Layers>
+        <Scripts>
+            <OnLoad function="ActionPad_OnLoad" />
+            <OnEvent function="ActionPad_OnEvent" />
+            <OnMouseDown>
+                if button == "LeftButton" then
+                    self:StartMoving()
+                    ActionPad_MainFrameBackground:Show();
+                end
+            </OnMouseDown>
+            <OnMouseUp>
+                self:StopMovingOrSizing()
+                ActionPad_MainFrameBackground:Hide();
+            </OnMouseUp>
+        </Scripts>
+    </Frame>
+</Ui>
